@@ -2,7 +2,7 @@ from instabot import Bot
 
 bot = Bot()
 
-bot.login(username="normiethors",password='#######')
+bot.login(username="normiethors",password='######')
 
 bot.follow("chakrastraa")
 bot.upload_photo("C:/Users/hp/OneDrive/Desktop/Berserk.jpg",caption="...")
